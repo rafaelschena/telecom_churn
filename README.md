@@ -4,7 +4,6 @@ O objetivo é trabalho é criar um modelo de aprendizagem de máquina que possa 
 
 Para isto, são fornecidos um dataset de treinamento e também um dataset de teste para mensuração final do resultado do modelo.
 
-Será utilizada a a métrica do R^2 para avaliação dos modelos de machine learning criados.
 
 
 ```python
